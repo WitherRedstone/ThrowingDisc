@@ -1,0 +1,34 @@
+{
+  "item.disc.throw": {
+    "sounds": [
+      {
+        "name": "throwing_disc:entity/throwing_disc/throw",
+        "stream": false
+      }
+    ]
+  },
+  "item.disc.bounce": {
+    "sounds": [
+      {
+        "name": "throwing_disc:entity/throwing_disc/bounce",
+        "stream": false
+      }
+    ]
+  },
+  "item.disc.return": {
+    "sounds": [
+      {
+        "name": "throwing_disc:entity/throwing_disc/return",
+        "stream": false
+      }
+    ]
+  },
+  "item.disc.catch": {
+    "sounds": [
+      {
+        "name": "throwing_disc:entity/throwing_disc/catch",
+        "stream": false
+      }
+    ]
+  }
+}

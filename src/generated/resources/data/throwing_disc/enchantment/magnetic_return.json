@@ -1,0 +1,22 @@
+{
+  "anvil_cost": 4,
+  "description": {
+    "color": "light_purple",
+    "translate": "enchantment.throwing_disc.magnetic_return"
+  },
+  "max_cost": {
+    "base": 21,
+    "per_level_above_first": 8
+  },
+  "max_level": 3,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 8
+  },
+  "primary_items": "#throwing_disc:throwing_disc",
+  "slots": [
+    "hand"
+  ],
+  "supported_items": "#throwing_disc:throwing_disc",
+  "weight": 2
+}

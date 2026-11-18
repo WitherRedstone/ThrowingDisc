@@ -1,0 +1,29 @@
+{
+  "itemGroup.throwing_disc": "Throwing Disc",
+
+  "item.throwing_disc.copper_throwing_disc": "Copper Throwing Disc",
+  "item.throwing_disc.iron_throwing_disc": "Iron Throwing Disc",
+  "item.throwing_disc.golden_throwing_disc": "Golden Throwing Disc",
+  "item.throwing_disc.diamond_throwing_disc": "Diamond Throwing Disc",
+  "item.throwing_disc.netherite_throwing_disc": "Netherite Throwing Disc",
+  "item.throwing_disc.disc.tooltip": "Right-click to throw. Pierces mobs and ricochets off blocks.",
+  "item.throwing_disc.disc.tooltip_return": "Returns to you after a short flight.",
+  "item.throwing_disc.broken": "Broken",
+
+  "entity.throwing_disc.disc_entity": "Disc Entity",
+
+  "enchantment.throwing_disc.impaling": "Impaling",
+  "enchantment.throwing_disc.impaling.desc": "Increases throwing disc damage.",
+  "enchantment.throwing_disc.ramming": "Ramming",
+  "enchantment.throwing_disc.ramming.desc": "The disc no longer damages mobs; it breaks blocks based on its material tier. Incompatible with Impaling.",
+  "enchantment.throwing_disc.aerodynamics": "Aerodynamics",
+  "enchantment.throwing_disc.aerodynamics.desc": "Increases flight distance by 1 block per level, up to level 5.",
+  "enchantment.throwing_disc.expansion": "Expansion",
+  "enchantment.throwing_disc.expansion.desc": "Ramming breaks blocks in a wider area, +1 block radius per level, up to level 2.",
+  "enchantment.throwing_disc.ricochet": "Ricochet",
+  "enchantment.throwing_disc.ricochet.desc": "Increases the maximum number of bounces by 1 per level, up to level 5.",
+  "enchantment.throwing_disc.magnetic_return": "Magnetic Return",
+  "enchantment.throwing_disc.magnetic_return.desc": "Increases return speed per level; with Ramming, carries broken block drops back to you. Up to level 3.",
+  "enchantment.throwing_disc.preservation": "Preservation",
+  "enchantment.throwing_disc.preservation.desc": "Leaves the disc at 1 durability instead of breaking."
+}

@@ -1,0 +1,22 @@
+{
+  "anvil_cost": 4,
+  "description": {
+    "color": "yellow",
+    "translate": "enchantment.throwing_disc.ricochet"
+  },
+  "max_cost": {
+    "base": 21,
+    "per_level_above_first": 8
+  },
+  "max_level": 5,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 8
+  },
+  "primary_items": "#throwing_disc:throwing_disc",
+  "slots": [
+    "hand"
+  ],
+  "supported_items": "#throwing_disc:throwing_disc",
+  "weight": 2
+}

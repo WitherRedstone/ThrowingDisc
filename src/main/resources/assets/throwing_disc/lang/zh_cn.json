@@ -1,0 +1,29 @@
+{
+  "itemGroup.throwing_disc": "飞盘",
+
+  "item.throwing_disc.copper_throwing_disc": "铜飞盘",
+  "item.throwing_disc.iron_throwing_disc": "铁飞盘",
+  "item.throwing_disc.golden_throwing_disc": "金飞盘",
+  "item.throwing_disc.diamond_throwing_disc": "钻石飞盘",
+  "item.throwing_disc.netherite_throwing_disc": "下界合金飞盘",
+  "item.throwing_disc.disc.tooltip": "右键投掷，穿透生物并可在方块间反弹。",
+  "item.throwing_disc.disc.tooltip_return": "飞行一段距离或时间后自动返回。",
+  "item.throwing_disc.broken": "已损坏",
+
+  "entity.throwing_disc.disc_entity": "飞盘",
+
+  "enchantment.throwing_disc.impaling": "贯穿",
+  "enchantment.throwing_disc.impaling.desc": "飞盘每次命中额外造成伤害。",
+  "enchantment.throwing_disc.ramming": "冲撞",
+  "enchantment.throwing_disc.ramming.desc": "飞盘不再伤害生物，改为按材质等级破坏方块；与贯穿不兼容。",
+  "enchantment.throwing_disc.aerodynamics": "空气动力学",
+  "enchantment.throwing_disc.aerodynamics.desc": "飞盘每级增加 1 格飞行距离，最高 5 级。",
+  "enchantment.throwing_disc.expansion": "扩展",
+  "enchantment.throwing_disc.expansion.desc": "冲撞破坏方块时，每级额外扩大 1 格范围，最高 2 级。",
+  "enchantment.throwing_disc.ricochet": "回旋",
+  "enchantment.throwing_disc.ricochet.desc": "每级增加 1 次反弹次数，最高 5 级。",
+  "enchantment.throwing_disc.magnetic_return": "磁返",
+  "enchantment.throwing_disc.magnetic_return.desc": "每级提高返回速度；配合冲撞时，会将破坏方块的掉落物带回，最高 3 级。",
+  "enchantment.throwing_disc.preservation": "保留",
+  "enchantment.throwing_disc.preservation.desc": "飞盘耐久将要耗尽时保留最后 1 点耐久，不会消失，但会进入已损坏状态。"
+}
